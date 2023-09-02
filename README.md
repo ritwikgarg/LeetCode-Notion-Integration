@@ -49,4 +49,4 @@ The script will fetch data from the LeetCode page, create a corresponding entry,
 
 
 ## Notion Template 
-Link to the Notion Template that supports this integration is : [Link](https://zenith-basket-b25.notion.site/LeetCode-ea8fb421d4444d528fdb71ada057c844)
+Link to the Notion Template that supports this integration is : [Link](https://zenith-basket-b25.notion.site/LeetCode-ea8fb421d4444d528fdb71ada057c844). You can duplicate this template in your Notion Workspace and use the database id of the newly created database in the .env file.
