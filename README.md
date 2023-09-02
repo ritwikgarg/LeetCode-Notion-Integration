@@ -46,3 +46,7 @@ You will be prompted to enter the LeetCode URL of the question you want to add t
 The script will fetch data from the LeetCode page, create a corresponding entry, and add it to your Notion database.
 </li>
 </ul>
+
+
+## Notion Template 
+Link to the Notion Template that supports this integration is : [Link](https://zenith-basket-b25.notion.site/LeetCode-ea8fb421d4444d528fdb71ada057c844)
